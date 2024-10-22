@@ -15,6 +15,3 @@ I am a certified Atlassian expert with over 5 years of experience. I focus on cu
     <li><a href="/contacts">Contacts</a></li>
   </ul>
 </div>
-
-## Main Content
-Here, you can showcase some featured projects or write an introduction about your portfolio.
