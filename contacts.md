@@ -4,9 +4,16 @@ title: Marek Hoffreiter, Atlassian certified expert
 permalink: /contacts
 ---
 
-# Contact me here
+# You contact me here
 
-I am a certified Atlassian expert with over 5 years of experience. I focus on custom solutions, groovy scripting, application and system administration.
+<div class="sidebar">
+  <h3>Contacts</h3>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/marek-hoffreiter/">LinkedIn</a></li>
+    <li><a href="/projects"></a></li>
+    <li><a href="/about">About me</a></li>    
+  </ul>
+</div>
 
 <div class="sidebar">
   <h3>Navigation</h3>
