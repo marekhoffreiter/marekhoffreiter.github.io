@@ -4,9 +4,28 @@ title: Marek Hoffreiter, Atlassian certified expert
 permalink: /projects
 ---
 
-# My projects
+# My work and services
 
-I am a certified Atlassian expert with over 5 years of experience. I focus on custom solutions, groovy scripting, application and system administration.
+## Tailored service desk solution
+XXX
+
+## Installation, sizing and upgrading of Atlassian applications
+XXX
+
+## Scriptrunner automation, dynamic forms, scripted fields
+XXX
+
+## Automation for jira
+XXX
+
+## Assets automation and reporting
+XXX
+
+## Custom python API automation, reporting
+XXX
+
+
+
 
 <div class="sidebar">
   <h3>Navigation</h3>
@@ -17,6 +36,3 @@ I am a certified Atlassian expert with over 5 years of experience. I focus on cu
 
   </ul>
 </div>
-
-## Main Content
-Here, you can showcase some featured projects or write an introduction about your portfolio.
