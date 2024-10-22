@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marek Hoffreiter <a target="_blank" rel="noopener noreferrer" href="https://cp.certmetrics.com/atlassian/en/public/badge/r?id=253800&date=2023-09-24"><img src="/img/atlassian certified expert.png" style="width: 10em; height: 10em;"></a>
+title: Marek Hoffreiter <img src="/img/atlassian certified expert.png" style="width: 10em; height: 10em;">
 permalink: /about
 ---
 
