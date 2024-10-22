@@ -9,7 +9,7 @@ permalink: /contacts
 <div class="sidebar">
   <h3>Contacts</h3>
   <ul>
-    <li><a href="https://www.linkedin.com/in/marek-hoffreiter/">LinkedIn</a></li>
+    <li><a target="_blank" href="https://www.linkedin.com/in/marek-hoffreiter/">LinkedIn</a></li>
     <li><a href="/projects"></a></li>
     <li><a href="/about">About me</a></li>    
   </ul>
