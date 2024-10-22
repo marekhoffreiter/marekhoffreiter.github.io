@@ -10,7 +10,7 @@ I am a certified Atlassian expert with over 5 years of experience. I focus on cu
 <div class="sidebar">
   <h3>Navigation</h3>
   <ul>
-    <li><a href="/projects">Projects</a></li>
+    <li><a href="/projects">My work</a></li>
     <li><a href="/about">About me</a></li>    
     <li><a href="/contacts">Contacts</a></li>
   </ul>
