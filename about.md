@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marek Hoffreiter <img src="/img/atlassian certified expert.png" style="width: 10em; height: 10em;">
+title: Marek Hoffreiter, Atlassian certified expert
 permalink: /about
 ---
 
