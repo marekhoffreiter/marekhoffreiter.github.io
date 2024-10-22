@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Marek Hoffreiter, Atlassian certified expert
 ---
 
 # Welcome to My Portfolio
