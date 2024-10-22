@@ -1,6 +1,8 @@
+---
 layout: default
-title: Projects
+title: Marek Hoffreiter, Atlassian certified expert
 permalink: /projects
+---
 
 # My projects
 
