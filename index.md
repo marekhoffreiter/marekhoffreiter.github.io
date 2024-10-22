@@ -5,7 +5,7 @@ title: Marek Hoffreiter, Atlassian certified expert
 
 # Welcome to My Portfolio
 
-This is a brief introduction about you or your work.
+I am a certified Atlassian expert with over 5 years of experience. I focus on custom solutions, groovy scripting, application and system administration.
 
 <div class="sidebar">
   <h3>Navigation</h3>
