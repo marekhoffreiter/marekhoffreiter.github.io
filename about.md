@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marek Hoffreiter
+title: Marek Hoffreiter, Atlassian certified expert
 permalink: /about
 ---
 
@@ -13,7 +13,7 @@ Occassionaly I provide consultation services to Tipsport CZ, the biggest betting
 
 # Certifications and credentials
 
-<a target="_blank" rel="noopener noreferrer" href="https://cp.certmetrics.com/atlassian/en/public/badge/r?id=253800&date=2023-09-24"><img src="/img/atlassian certified expert.png" style="width: 1.5em; height: 1.5em;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://cp.certmetrics.com/atlassian/en/public/badge/r?id=253800&date=2023-09-24"><img src="/img/atlassian certified expert.png" style="width: 10em; height: 10em;"></a>
  
 You can find my atlassian credentials here: <a target="_blank" rel="noopener noreferrer" href="https://cp.certmetrics.com/atlassian/en/public/transcript/MMJSFN121FF1QRWC">certmetrics</a>.
 Apart from atlassian certifications, I am a holder of these certificates:
