@@ -9,6 +9,8 @@ permalink: /projects
 ## Tailored service desk solution
 While holding ITIL4 Foundation certification, I provide custom ITSM solution to fit the needs of your team, while also following basic principles of ITIL.<br>
 <img class ="img" src="/img/jira_dc.png" style="transition: transform 0.3s ease width: 10em; height: 10em;" onmouseover="this.style.transform='scale(2.5)'" onmouseout="this.style.transform='scale(1)'" alt="Image description"><br>
+
+
 <img src="/img/jsm_workflow.png" style="transition: transform 0.3s ease width: 10em; height: 10em;" onmouseover="this.style.transform='scale(2.5)'" onmouseout="this.style.transform='scale(1)'" alt="Image description">
 
 
@@ -16,12 +18,16 @@ While holding ITIL4 Foundation certification, I provide custom ITSM solution to 
 Having multiple years of experience of installing, sizing, upgrading and administering Atlassian applications, I am ready to guide you through every step of setting up your environment.<br>
 <img src="/img/jira_architecture.png" style="transition: transform 0.3s ease width: 10em; height: 10em;" onmouseover="this.style.transform='scale(2.5)'" onmouseout="this.style.transform='scale(1)'" alt="Image description"><br>
 
+
+
 I also provide cleaning services for your existing environments.<br>
 <img src="/img/cleaning.jpg" style="transition: transform 0.3s ease width: 10em; height: 10em;" onmouseover="this.style.transform='scale(2.5)'" onmouseout="this.style.transform='scale(1)'" alt="Image description">
 
 ## Scriptrunner automation, behaviours, scripted fields
 Groovy scripting and scriptrunner has been the main focus of my work throughout the last few years. <br>
 <img src="/img/behaviours.jpg" style="transition: transform 0.3s ease width: 10em; height: 10em;" onmouseover="this.style.transform='scale(2.5)'" onmouseout="this.style.transform='scale(1)'" alt="Image description"><br>
+
+
 <img src="/img/conversion.png" style="transition: transform 0.3s ease width: 10em; height: 10em;" onmouseover="this.style.transform='scale(2.5)'" onmouseout="this.style.transform='scale(1)'" alt="Image description">
 
 
