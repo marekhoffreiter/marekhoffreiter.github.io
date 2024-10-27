@@ -6,7 +6,7 @@ permalink: /about
 
 # About me
 
-<a target="_blank" rel="noopener noreferrer" href="https://cp.certmetrics.com/atlassian/en/public/badge/r?id=253800&date=2023-09-24"><img src="/img/Screenshot_41.png" style="width: 10em; height: 10em;"></a>
+<img src="/img/Screenshot_41.png" style="width: 10em; height: 10em;">
 
 I began my Atlassian journey as a support/tester at one of the largest Atlassian Platinum Partners in the Czech Republic, Morosystems s.r.o. Within just a few months, I passed several certification exams and started specializing in administration. After returning to Slovakia for family reasons, I was given the opportunity to work remotely for a former Gold Atlassian Partner, Servodata a.s., where my Groovy skills began to flourish. My focus was on upgrading, installing, and sizing Atlassian applications, as well as developing dynamic forms, workflow automations, and other custom solutions. My latest and ongoing client is the largest Atlassian Platinum Partner in the Czech Republic, Ixperta s.r.o., where I continue in a similar role, now with more seniority. Additionally, I occasionally provide consultation services to Tipsport CZ, the largest betting company in the Czech Republic.
 
