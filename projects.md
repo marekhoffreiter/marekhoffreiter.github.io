@@ -41,7 +41,7 @@ Need a new CMDB ? Basic setup and help with automations, imports and integration
 
 ## Custom python API automation, reporting
 Sometimes, when there is no scriptrunner, using existing python lib for reporting or automation is also a possibility.<br>
-<img src="/img/python.png" style="transition: transform 0.3s ease width: 10em; height: 10em;" onmouseover="this.style.transform='scale(2.5)'" onmouseout="this.style.transform='scale(1)'" alt="Image description">
+<img src="/img/python.png" style="width: 10em; height: 10em;">
 
 
 
