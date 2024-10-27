@@ -7,22 +7,35 @@ permalink: /projects
 # My work and services
 
 ## Tailored service desk solution
-XXX
+While holding ITIL4 Foundation certification, I provide custom ITSM solution to fit the needs of your team, while also following basic principles of ITIL.
+<img src="/img/jira_dc.png" style="width: 10em; height: 10em;">
+<img src="/img/jsm_workflow.png" style="width: 10em; height: 10em;">
+
 
 ## Installation, sizing and upgrading of Atlassian applications
-XXX
+Having multiple years of experience of installing, sizing, upgrading and administering Atlassian applications, I am ready to guide you through every step of setting up your environment.
+<img src="/img/jira_architecture.png" style="width: 10em; height: 10em;">
+
+I also provide cleaning services for your existing environments.
+<img src="/img/cleaning.png" style="width: 10em; height: 10em;">
 
 ## Scriptrunner automation, behaviours, scripted fields
-XXX
+Groovy scripting and scriptrunner has been the main focus of my work throughout the last few years.
+<img src="/img/behaviours.png" style="width: 10em; height: 10em;">
+<img src="/img/conversion.png" style="width: 10em; height: 10em;">
+
 
 ## Automation for jira
-XXX
+Sometimes doing stuff with scriptrunner can be an overkill, or there is no budget, in this case I provide automation solutions using Automation for Jira.
+<img src="/img/automation.png" style="width: 10em; height: 10em;">
 
 ## Assets automation and reporting
-XXX
+Need a new CMDB ? Basic setup and help with automations, imports and integrations.
+<img src="/img/assets.png" style="width: 10em; height: 10em;">
 
 ## Custom python API automation, reporting
-XXX
+Sometimes, when there is no scriptrunner, using existing python lib for reporting or automation is also a possibility. 
+<img src="/img/python.png" style="width: 10em; height: 10em;">
 
 
 
