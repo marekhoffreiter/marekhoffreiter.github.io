@@ -8,7 +8,7 @@ permalink: /projects
 
 ## Tailored service desk solution
 While holding ITIL4 Foundation certification, I provide custom ITSM solution to fit the needs of your team, while also following basic principles of ITIL.<br>
-<img src="/img/jira_dc.png" style="width: 10em; height: 10em;"><br>
+<img class ="img" src="/img/jira_dc.png" style="width: 10em; height: 10em;"><br>
 <img src="/img/jsm_workflow.png" style="width: 10em; height: 10em;">
 
 
@@ -49,3 +49,16 @@ Sometimes, when there is no scriptrunner, using existing python lib for reportin
 
   </ul>
 </div>
+
+.img:hover{
+    color: #424242; 
+  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  transition: all .3s ease-in;
+  opacity: 1;
+  transform: scale(1.15);
+  -ms-transform: scale(1.15); /* IE 9 */
+  -webkit-transform: scale(1.15); /* Safari and Chrome */
+}
