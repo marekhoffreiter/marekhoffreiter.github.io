@@ -12,7 +12,7 @@ XXX
 ## Installation, sizing and upgrading of Atlassian applications
 XXX
 
-## Scriptrunner automation, dynamic forms, scripted fields
+## Scriptrunner automation, behaviours, scripted fields
 XXX
 
 ## Automation for jira
