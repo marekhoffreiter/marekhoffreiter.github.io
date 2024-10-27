@@ -21,11 +21,11 @@ Having multiple years of experience of installing, sizing, upgrading and adminis
 
 
 I also provide cleaning services for your existing environments.<br>
-<img src="/img/cleaning.jpg" style="transition: transform 0.3s ease width: 10em; height: 10em;" onmouseover="this.style.transform='scale(2.5)'" onmouseout="this.style.transform='scale(1)'" alt="Image description">
+<img src="/img/cleaning.jpg" style="width: 10em; height: 10em;">
 
 ## Scriptrunner automation, behaviours, scripted fields
 Groovy scripting and scriptrunner has been the main focus of my work throughout the last few years. <br>
-<img src="/img/behaviours.jpg" style="transition: transform 0.3s ease width: 10em; height: 10em;" onmouseover="this.style.transform='scale(2.5)'" onmouseout="this.style.transform='scale(1)'" alt="Image description"><br>
+<img src="/img/behaviours.jpg" style="width: 10em; height: 10em;"><br>
 
 
 <img src="/img/conversion.png" style="transition: transform 0.3s ease width: 10em; height: 10em;" onmouseover="this.style.transform='scale(2.5)'" onmouseout="this.style.transform='scale(1)'" alt="Image description">
